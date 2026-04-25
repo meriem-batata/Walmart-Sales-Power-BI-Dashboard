@@ -6,7 +6,7 @@
  
 This project is an end-to-end **sales analysis dashboard** built with **Power BI**, using real Walmart store data covering **45 stores** over a period from **February 2010 to October 2012**.
  
-The goal was to explore the impact of external factors — holidays, fuel prices, temperature, CPI, and unemployment — on weekly sales performance, and to surface actionable insights through an interactive dashboard.
+The goal was to explore the impact of external factors — holidays, fuel prices, temperature, CPI, and unemployment on weekly sales performance, and to surface actionable insights through an interactive dashboard.
 
 ---
 
@@ -66,7 +66,7 @@ The goal was to explore the impact of external factors — holidays, fuel prices
 Headline metrics displayed at the top: Total Sales, Total Stores, Average CPI, Average Fuel Price, Average Unemployment Rate, and Holiday Sales.
  
 ### 🏪 Total Sales by Store
-Bar chart showing weekly sales distribution across all 45 stores — identifies top-performing and underperforming stores at a glance.
+Bar chart showing weekly sales distribution across all 45 stores identifies top-performing and underperforming stores at a glance.
  
 ### 🎉 Total Sales by Holidays
 Donut chart comparing holiday vs. non-holiday sales:
@@ -79,7 +79,7 @@ Scatter plot revealing the relationship between temperature and weekly sales —
 Dual-axis line chart tracking weekly sales alongside fuel price trends — highlights how fuel price fluctuations correlate with sales peaks and dips over 2010–2012.
  
 ### 📊 Total Sales and CPI by Date
-Dual-axis line chart showing how rising CPI (inflation) relates to sales behavior — the steady CPI increase from 2010 to 2012 reflects inflationary pressure, yet sales remained relatively stable.
+Dual-axis line chart showing how rising CPI (inflation) relates to sales behavior the steady CPI increase from 2010 to 2012 reflects inflationary pressure, yet sales remained relatively stable.
  
 ---
  
