@@ -1,5 +1,7 @@
 # 🛒 Walmart Sales Analysis — Power BI Dashboard
 
+![](Walmart_logo.png)
+
 ## 📊 Project Overview
  
 This project is an end-to-end **sales analysis dashboard** built with **Power BI**, using real Walmart store data covering **45 stores** over a period from **February 2010 to October 2012**.
