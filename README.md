@@ -10,7 +10,7 @@ The goal was to explore the impact of external factors — holidays, fuel prices
 
 ## 🖼️ Dashboard Preview
  
-![Walmart Dashboard](Walmart Dashboard.png)
+![Walmart Dashboard](Walmart_Dashboard.png)
 
 ---
  
